@@ -1,4 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="" target="_blank"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 712 712" width="70px"
+                height="70px">
+                <polygon fill="#fff"
+                    points="330.57 0 330.57 101.71 521.29 101.71 354.41 279.71 545.13 279.71 712 101.71 712 0 330.57 0" />
+                <polygon fill="#fff"
+                    points="203.43 101.71 203.43 305.14 101.71 406.86 101.71 203.43 0 305.14 0 712 101.71 610.29 101.71 508.57 203.43 406.86 203.43 597.57 101.71 712 203.43 712 305.14 610.29 305.14 0 203.43 101.71" />
+                <polygon fill="#fff"
+                    points="711.86 305.14 546.71 305.14 521.29 305.14 330.57 305.14 330.57 406.86 330.57 712 432.42 712 432.42 406.86 610.14 406.86 711.86 305.14" />
+                <polygon fill="#fff" points="611.73 441.27 611.73 712 712 712 712 406.86 712 341 611.73 441.27" />
+            </svg></a></p>
 
 ## Tentang Peduli Diri
 
